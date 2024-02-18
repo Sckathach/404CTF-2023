@@ -1,5 +1,14 @@
 # ART Notebook slightly modified for the purpose of the challenge
 # https://github.com/Trusted-AI/adversarial-robustness-toolbox/blob/main/notebooks/attack_defence_imagenet.ipynb
+#      /\_/\
+# /\  / o o \
+#//\\ \~(*)~/
+#`  \/   ^ /
+#   | \|| ||
+#   \ '|| ||
+#    \)()-())
+
+
 
 import warnings
 import matplotlib.image as mpimg
